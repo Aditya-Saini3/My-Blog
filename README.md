@@ -1,2 +1,2 @@
 # My-Blog
-Website made for Bloggers with HTML, CSS and JS
+Website made for Bloggers with HTML and CSS.
