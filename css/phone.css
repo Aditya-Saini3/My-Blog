@@ -1,0 +1,41 @@
+/* Navigation Bar  */
+#navbar{
+    flex-direction: column;
+}
+
+/* home section  */
+
+#home{
+height: 440px;
+padding: 0px;
+}
+
+#home p{
+    font-size: 1.1rem;
+}
+
+/* Recent Blogs Section  */
+#recentblogs{
+flex-direction: column;
+}
+
+/* Social Section  */
+
+
+#social-section ul li{
+    width: 30px;
+    height: 30px;
+    margin: 0px 20px;
+}
+#social-section ul li span{
+    font-size: 15px !important;
+}
+
+/* Subscribe section  */
+.subscribeheading{
+    font-size: 2.8rem;
+}
+/* Utility Classes */
+.h-primary{
+    font-size: 2.8rem;
+}
